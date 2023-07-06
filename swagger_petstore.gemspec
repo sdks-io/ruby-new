@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'repo-test-sdk'
-  s.version = '1.1.9'
+  s.version = '1.2.1'
   s.summary = 'this is test profile'
   s.description = 'this porfile is made to test New repositories '
   s.authors = ['SUbtain']
