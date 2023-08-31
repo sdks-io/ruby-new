@@ -12,20 +12,20 @@ Find out more about Swagger: [http://swagger.io](http://swagger.io)
 Install the gem from the command line:
 
 ```ruby
-gem install repo-test-sdk -v 1.2.32
+gem install repo-test-sdk -v 2.3.363
 ```
 
 Or add the gem to your Gemfile and run `bundle`:
 
 ```ruby
-gem 'repo-test-sdk', '1.2.32'
+gem 'repo-test-sdk', '2.3.363'
 ```
 
-For additional gem details, see the [RubyGems page for the repo-test-sdk gem](https://rubygems.org/gems/repo-test-sdk/versions/1.2.32).
+For additional gem details, see the [RubyGems page for the repo-test-sdk gem](https://rubygems.org/gems/repo-test-sdk/versions/2.3.363).
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/sdks-io/ruby-new/tree/1.2.32/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/sdks-io/ruby-new/tree/2.3.363/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -58,13 +58,13 @@ This API uses `Custom Authentication`.
 
 ## List of APIs
 
-* [Pet](https://www.github.com/sdks-io/ruby-new/tree/1.2.32/doc/controllers/pet.md)
-* [Store](https://www.github.com/sdks-io/ruby-new/tree/1.2.32/doc/controllers/store.md)
-* [User](https://www.github.com/sdks-io/ruby-new/tree/1.2.32/doc/controllers/user.md)
+* [Pet](https://www.github.com/sdks-io/ruby-new/tree/2.3.363/doc/controllers/pet.md)
+* [Store](https://www.github.com/sdks-io/ruby-new/tree/2.3.363/doc/controllers/store.md)
+* [User](https://www.github.com/sdks-io/ruby-new/tree/2.3.363/doc/controllers/user.md)
 
 ## Classes Documentation
 
-* [Utility Classes](https://www.github.com/sdks-io/ruby-new/tree/1.2.32/doc/utility-classes.md)
-* [HttpResponse](https://www.github.com/sdks-io/ruby-new/tree/1.2.32/doc/http-response.md)
-* [HttpRequest](https://www.github.com/sdks-io/ruby-new/tree/1.2.32/doc/http-request.md)
+* [Utility Classes](https://www.github.com/sdks-io/ruby-new/tree/2.3.363/doc/utility-classes.md)
+* [HttpResponse](https://www.github.com/sdks-io/ruby-new/tree/2.3.363/doc/http-response.md)
+* [HttpRequest](https://www.github.com/sdks-io/ruby-new/tree/2.3.363/doc/http-request.md)
 
