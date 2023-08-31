@@ -50,7 +50,6 @@ module SwaggerPetstore
                                                  .base_uri_executor(@config.method(:get_base_uri))
                                                  .global_errors(BaseController::GLOBAL_ERRORS)
                                                  .user_agent(BaseController.user_agent)
-                                                 .sdk_module(SwaggerPetstore)
 
       initialize_auth_managers(@global_configuration)
       @global_configuration = @global_configuration.auth_managers(@auth_managers)

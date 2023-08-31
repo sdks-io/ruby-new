@@ -14,7 +14,7 @@
 | `quantity` | `Integer` | Optional | - |
 | `ship_date` | `DateTime` | Optional | - |
 | `status` | [`Status1Enum`](../../doc/models/status-1-enum.md) | Optional | Order Status |
-| `complete` | `TrueClass\|FalseClass` | Optional | - |
+| `complete` | `TrueClass \| FalseClass` | Optional | - |
 
 ## Example (as JSON)
 

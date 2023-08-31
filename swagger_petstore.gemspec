@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'repo-test-sdk'
-  s.version = '1.2.1'
+  s.version = '1.2.32'
   s.summary = 'this is test profile'
   s.description = 'this porfile is made to test New repositories '
   s.authors = ['SUbtain']
@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.metadata  = {
 }
 
-  s.add_dependency('apimatic_core_interfaces', '~> 0.1.0')
-  s.add_dependency('apimatic_core', '~> 0.2.0')
+  s.add_dependency('apimatic_core_interfaces', '~> 0.2.0')
+  s.add_dependency('apimatic_core', '~> 0.3.0')
   s.add_dependency('apimatic_faraday_client_adapter', '~> 0.1.0')
   s.required_ruby_version = ['>= 2.6']
   s.files = Dir['{bin,lib,man,test,spec}/**/*', 'README*', 'LICENSE*']

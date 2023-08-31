@@ -14,7 +14,7 @@ module SwaggerPetstore
     attr_accessor :id
 
     # TODO: Write general description for this method
-    # @return [List of String]
+    # @return [Array[String]]
     attr_accessor :photo_urls
 
     # TODO: Write general description for this method

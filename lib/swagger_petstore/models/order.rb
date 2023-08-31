@@ -31,7 +31,7 @@ module SwaggerPetstore
     attr_accessor :status
 
     # Order Status
-    # @return [TrueClass|FalseClass]
+    # @return [TrueClass | FalseClass]
     attr_accessor :complete
 
     # A mapping from model property names to API property names.

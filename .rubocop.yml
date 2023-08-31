@@ -45,6 +45,9 @@ Style/FrozenStringLiteralComment:
 Style/RedundantAssignment:
   Enabled: false
 
+Style/MultilineTernaryOperator:
+  Enabled: false
+
 AllCops:
   Exclude:
     - './test/**/*'

@@ -35,7 +35,7 @@ module SwaggerPetstore
     end
 
     # Creates a new instance of the request builder.
-    # @param [HttpMethodEnum] http_method The HTTP method to use in the request.
+    # @param [String] http_method The HTTP method to use in the request.
     # @param [String] path The endpoint path to use in the request.
     # @param [String] server The server to extract the base uri for the request.
     # @return [RequestBuilder] The instance of RequestBuilder.

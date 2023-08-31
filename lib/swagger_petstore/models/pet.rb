@@ -22,11 +22,11 @@ module SwaggerPetstore
     attr_accessor :name
 
     # TODO: Write general description for this method
-    # @return [List of String]
+    # @return [Array[String]]
     attr_accessor :photo_urls
 
     # TODO: Write general description for this method
-    # @return [List of Tag]
+    # @return [Array[Tag]]
     attr_accessor :tags
 
     # pet status in the store
